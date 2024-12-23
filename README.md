@@ -1,4 +1,4 @@
-# MERN E-COMMERCE TUTORIAL
+# MERN E-COMMERCE website 
 
 Hi! My name is **Anushka Saumya**
 
@@ -9,8 +9,6 @@ Hi! My name is **Anushka Saumya**
 # Install Dependencies
 
 **For Backend** - `npm i`
-
-**For Frontend** - `cd frontend` ` npm i`
 
 ## Env Variables
 
